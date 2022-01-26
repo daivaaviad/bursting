@@ -4,7 +4,7 @@
 % If you find this code useful, please cite:
 %
 % D. Petkevičiūtė-Gerlach, R. Šmidtaitė and M. Ragulskis. "Intermittent bursting in the 
-% fractional difference logistic map of matrices", Int. J. Bifurcation and Chaos 32(1), 2002. 
+% fractional difference logistic map of matrices", Int. J. Bifurcation and Chaos 32 (2022).
 %
 
 clear all; 
