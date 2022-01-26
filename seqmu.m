@@ -5,7 +5,7 @@
 %
 % Here x is lambda, y is mu (see formula (24) of the article
 % D. Petkevičiūtė-Gerlach, R. Šmidtaitė and M. Ragulskis. "Intermittent bursting in the 
-% fractional difference logistic map of matrices", 2021.)
+% fractional difference logistic map of matrices", Int. J. Bifurcation and Chaos 32 (2022).
 %
 % Parameters x0 and nu can be set from 0 to 1, 0 < a < 4 
 % and n is an integer greater than 1.
@@ -13,7 +13,7 @@
 % If you find this code useful, please cite:
 %
 % D. Petkevičiūtė-Gerlach, R. Šmidtaitė and M. Ragulskis. "Intermittent bursting in the 
-% fractional difference logistic map of matrices", 2021.
+% fractional difference logistic map of matrices", Int. J. Bifurcation and Chaos 32 (2022).
 %
 % Also see the article for more detailed explanations.
 %
